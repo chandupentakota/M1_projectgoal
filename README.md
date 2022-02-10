@@ -8,20 +8,6 @@ Mini project using c language
 
 ![Code incpector](https://www.code-inspector.com/project/28048/status/svg)
 
-![](https://img.shields.io/github/issues/ankitakondagoli/stepin_Bank-Management?style=flat-square)
-
-[![CI](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/main.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/main.yml)
-
-[![Valgrind](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/Valgrind.yml)
-
-[![C/C++ CI](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/c-build.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/c-build.yml)
-
-[![Git Inspector](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/gitinspector.yml)
-
-[![Unit Testing](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/unit-test.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/unit-test.yml)
-
-[![Code Quality-Cppcheck](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/cppcheck.yml)
-
 ## Folder	Description
  Folder Name | Description
  ------------|---------------------------
@@ -36,7 +22,7 @@ Mini project using c language
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-99006046| Ankita Nagaraj Kondagoli  | Bank-management System    | 2    | 2   | 8  | 8    
+88454565| Pentakota Chandu  | Bank-management System    | 2    | 2   | 8  | 8    
      
 
 ## Challenges Faced and How Was It Overcome
