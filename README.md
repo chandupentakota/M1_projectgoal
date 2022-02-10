@@ -1,5 +1,4 @@
 # M1_projectgoal_Banking_Management_System
-# stepin_Bank-Management
 Mini project using c language
 
 
