@@ -1,9 +1,16 @@
 # M1_projectgoal_Banking_Management_System
 Mini project using c language
 
-![Code grade](https://www.code-inspector.com/project/28048/score/svg)
+![code Quality](https://api.codiga.io/project/31376/score/svg)
 
-![Code status](https://www.code-inspector.com/project/28048/status/svg)
+![code grade](https://api.codiga.io/project/31376/status/svg)
+
+
+
+
+
+
+
 
 ## Folder	Description
  Folder Name | Description
