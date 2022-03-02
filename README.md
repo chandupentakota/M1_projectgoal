@@ -19,6 +19,8 @@ Mini project using c language
 
 [![CI](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/main.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/main.yml)
 
+[![Valgrind](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Valgrind.yml)
+
 ![Screenshot (145)](https://user-images.githubusercontent.com/98889278/154532685-1547a33b-1fe5-4f60-8d32-5081355efe6b.png)
 
 
