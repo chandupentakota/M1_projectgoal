@@ -23,6 +23,8 @@ Mini project using c language
 
 [![Build Linux](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Build.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Build.yml)
 
+[![Unity Testing](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Unity.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Unity.yml)
+
 ![Screenshot (145)](https://user-images.githubusercontent.com/98889278/154532685-1547a33b-1fe5-4f60-8d32-5081355efe6b.png)
 
 
